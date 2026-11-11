@@ -101,7 +101,7 @@ IR technology is used in a wide range of wireless applications which includes re
 
 ## STM 32 CUBE PROGRAM
 
-```
+```c
 #include "main.h"
 #include <stdbool.h>
 UART_HandleTypeDef huart2;
@@ -138,9 +138,14 @@ int main(void)
 }```
 
 ## OUTPUT
-exp2/EXPERIMENT-02-INTERFACING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD/img/1.png
 
+![alt text](img/1.png)
 
+![alt text](img/2.png)
+
+<img src="img/3.jpg" width="300">
+
+<img src="img/4.jpg" width="300">
 
 ## Result
 
