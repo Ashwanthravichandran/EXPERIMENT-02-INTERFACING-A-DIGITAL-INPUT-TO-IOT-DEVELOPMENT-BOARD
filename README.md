@@ -145,9 +145,9 @@ int main(void)
 
 ![alt text](img/2.png)
 
-<img src="img/3.jpg" width="300">
+<img src="img/3.jpg" >
 
-<img src="img/4.jpg" width="300">
+<img src="img/4.jpg" >
 
 ## Result
 
